@@ -1,2 +1,2 @@
 # Calculator
-Javascript calculator
+Javascript calculator created with class.
